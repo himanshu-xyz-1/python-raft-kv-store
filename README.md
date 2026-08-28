@@ -36,7 +36,7 @@ The project includes a live cluster dashboard showing node roles, terms, commit/
 
 ### Light Mode
 
-![Raft KV V3 — Light Dashboard](assets/White_dashboard_preview.png)
+![Raft KV V3 — Light Dashboard](assets/White_dashboard_preview11.png)
 
 ### Dark Mode
 
